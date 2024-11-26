@@ -2,7 +2,7 @@
 
 
                                                 🧑‍💻 - Software Engineer                                        
-                                                👨‍🎓- Studying Cybersecurity
-                                                📫- You can reach me through Discord: flacis.lol
-                                                💭- Learning Python
-  [![GitHub Streak](https://streak-stats.demolab.com?user=flacisReel&theme=dark)](https://git.io/streak-stats)
+                                                👨‍🎓 - Studying Cybersecurity
+                                                📫 - You can reach me through Discord: flacis.lol
+                                                💭 - Learning Python
+                                                🎮 - C# Coder
